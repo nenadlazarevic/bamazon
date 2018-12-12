@@ -47,7 +47,7 @@ function buyProduct() {
     var query = "SELECT * FROM products WHERE ?";
     connection.query(query, { id: answer.id}, function(err, res){
         var productData = res[0].stock_quantity
-        var updateStock = productData - answer.quantity;
+        var updateStock = productData - parseInt(answer.quantity);
         if (updateStock >=0) {
         //  console.log(updateStock);
         console.log("---------------------------------------------");
