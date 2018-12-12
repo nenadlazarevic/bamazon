@@ -32,6 +32,20 @@ Display message show the customer the total cost of their purchase.
 **Demo**
 1. In the first screen we have list of menu options.
 
-![image1](https://github.com/nenadlazarevic/bamazon/blob/master/assets/images/Screenshot%20(44).png)
+![image5](https://github.com/nenadlazarevic/bamazon/blob/master/assets/images/Screenshot%20(44).png)
 
+2. If Manager select **View Products for Sale**, the app will list every available item.
 
+![image6](https://github.com/nenadlazarevic/bamazon/blob/master/assets/images/Screenshot%20(45).png)
+
+3. if Manager select **View Low Inventory**, will see list of all items with an inventory count lower than five.
+
+![image7](https://github.com/nenadlazarevic/bamazon/blob/master/assets/images/Screenshot%20(46).png)
+
+4. If a manager selects **Add to Inventory**,  app will display a prompt that will let the manager "add more" of any item currently in the store.
+
+![image8](https://github.com/nenadlazarevic/bamazon/blob/master/assets/images/Screenshot%20(47).png)
+
+5. If a manager selects **Add New Product**, it will allow the manager to add a completely new product to the store.
+
+![image9](https://github.com/nenadlazarevic/bamazon/blob/master/assets/images/Screenshot%20(48).png)
