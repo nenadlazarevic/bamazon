@@ -1,6 +1,6 @@
 # Welcome to Bamazon!
 
-#### This CLI application uses Node.js and MySQL to emulate an online shopping experience.
+### Customer View 
 
 How to Install and Run the Application:
 1. Install the app by cloning this repo and navigating to the file in the command line.
@@ -27,3 +27,11 @@ Display message show the customer the total cost of their purchase.
 4. If customer want to purchase more items then it is in the stock, the message will be display.
 
 ![image4](https://github.com/nenadlazarevic/bamazon/blob/master/assets/images/Screenshot%20(38).png)
+
+## Manager View
+**Demo**
+1. In the first screen we have list of menu options.
+
+![image1](https://github.com/nenadlazarevic/bamazon/blob/master/assets/images/Screenshot%20(44).png)
+
+
